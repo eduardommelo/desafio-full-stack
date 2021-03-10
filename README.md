@@ -16,6 +16,7 @@ npm install
 npm run build
 serve -s build -l 80
 ```
+*De preferência pode utilizar o comando `npm start` que irá iniciar em modo dev*
 
 - No caso é preciso ter instalado o serve `npm install -g serve`
 
