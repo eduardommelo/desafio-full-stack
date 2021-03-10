@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Whitney-Medium;
+    src: url(../fonts/Whitney-Medium.ttf)
+}
+
+.margin-70 {
+    margin-top: 78px;
+}
+.align-center {
+    text-align: center;
+    color: #1a1a1a;
+    font-size: 12pt;
+}
