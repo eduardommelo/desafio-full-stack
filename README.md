@@ -12,7 +12,7 @@ Desáfio full stack desenvolvido em React front-end + API REST backend
 # Projeto Front end
 
 ```
-npm install package.json
+npm install 
 npm run build
 serve -s build -l 80
 ```
