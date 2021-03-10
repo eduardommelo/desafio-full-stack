@@ -2,14 +2,14 @@
 
 Desáfio full stack desenvolvido em React front-end + API REST backend 
 
-# Projeto front end
+# Projeto backend
 
 ```
     npm install --save
     npm start
 ```
 
-# Projeto backend
+# Projeto Front end
 
 ```
 npm install package.json
